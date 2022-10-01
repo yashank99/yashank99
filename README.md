@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashank99
+- 👋 Hi, I’m Yashank Chaubey
 - 👀 I’m interested in Data Analysis and Business Analysis
 - 🌱 I’m currently learning SQL (MySQL) & Python for Data Analysis
 - 💞️ I’m looking to collaborate on Data Visualization Projects
